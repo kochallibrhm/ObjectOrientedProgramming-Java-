@@ -1,0 +1,3 @@
+TR: Kullanýcýdan on farklý ürün alýp bu ürünlerin son kullanma tarihlerini yýl deðerine göre küçükten büyüðe doðru sýralayan program tasarlýyoruz. Program ürünlerin son kullanma tarihlerindeki yýllar eþit ise aylara göre sýralama yapacak. Ay için 1-12, yýl için ise 1-10 aralýðý dýþýndaki deðerler hatalý olarak görülecek ve aykýrý bir giriþte program sonlanacak.
+
+ENG: We desing a program, it takes ten different products from the user and sorts that lists the expiration dates of these products from small to large. The program will sort by months if the expiration years are equal. Values ??outside the range of 1-12 for the month, 1-10 for the year will be seen as inaccurate and the program will be terminated.
