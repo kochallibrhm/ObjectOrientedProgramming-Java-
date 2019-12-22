@@ -48,7 +48,7 @@ public class Main {
         Dünyali dunyali;
 
         for (int i = 0; i < 3; i++) {
-            int randomChoise = random.nextInt(10);
+            int randomChoise = random.nextInt(3);
             if (randomChoise == 1) {
                 dunyali = new Asker(random.nextInt(10));
                 dunyali.setSavunmaGucu(random.nextInt(10));
@@ -67,7 +67,7 @@ public class Main {
         Uzaylı[] diziUzayli=new Uzaylı[10];
         Uzaylı uzayli;
         for(int i=0; i<3; i++){
-            int randomChoise = random.nextInt(10);
+            int randomChoise = random.nextInt(3);
             if (randomChoise == 1){
                 uzayli=new Cyborg(random.nextInt(10));
                 uzayli.setSavunmaGucu(random.nextInt(10));
